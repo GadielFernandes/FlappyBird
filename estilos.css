@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
 }
+body{
+    align-items: center;
+    background: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4);
+    display: flex;
+    font-family: 'dosis';
+}
 
 #game {
     width: 400px;
